@@ -1,6 +1,7 @@
 
 # Employee Attrition Prediction Using SVM
 `PLEASE REVIEW THE NOTEBOOK FOR STEP-BY-STEP ANAYLSIS`
+
 In today's competitive environment, retaining top talent is crucial for any organization. This repository focuses on predicting employee attrition using Support Vector Machines (SVM), a powerful classification technique. By analyzing various factors, we aim to identify employees who are at risk of leaving the company, enabling proactive retention strategies.
 
 ## Table of Contents
